@@ -1,3 +1,5 @@
+#Accede a la carpeta principal del proyecto y ejecuta el comando 
+npm start, para abrir una vista en el navegador para ver el proyecto
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
